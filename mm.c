@@ -3,7 +3,7 @@
 #include <time.h>
 
 int main() {
-  int m = 1000000, n = 1000000; // Matrix dimensions
+  int m = 100000, n = 100000; // Matrix dimensions
   double alpha = 1.0, beta = 0.0;
 
   // Allocate memory for matrices and vectors
